@@ -1,12 +1,12 @@
-Hi, I am @Ptchangai 👋  
+Hi, I'm @Ptchangai 👋  
 
 -  I am interested in 🎓🐦🎧🎮✏️💻🌱
--  I study mathematics and specialize in numerical analysis.
--  I work with machine learning and use Python as a main tool.
--  I would be glad to collaborate on data science projects!
-- [Please reach me via LinkedIn](https://www.linkedin.com/in/ptchangai/)
+-  I'm a mathematician specializing in numerical analysis with a keen interest in machine learning.
+-  I primarily work with Python
+-  I'm open to collaborating on data science projects and expanding my skill set
+- [Feel free to reach out via LinkedIn](https://www.linkedin.com/in/ptchangai/)
 
-Have a nice day!
+Thanks for stopping by and have a great day!
 
 <!---
 Ptchangai/Ptchangai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
